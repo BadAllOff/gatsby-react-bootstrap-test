@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "title": "Too Much and Never Enough: How My Family Created the World’s Most Dangerous Man",
+  "description": "In this revelatory, authoritative portrait of Donald J. Trump and the toxic family that made him, Mary L. Trump, a trained clinical psychologist and Donald’s only niece, shines a bright light on the dark history of their family in order to explain how her uncle became the man who now threatens the world’s health, economic security, and social fabric.",
+  "pageCount": 200,
+  "language": "English",
+  "progress": 20,
+  "coverImage": "https://www.amazon.com/images/I/51k-FOUzX5L._SX329_BO1,204,203,200_.jpg",
+  "authors": [
+    {
+      "id": 1,
+      "name": "Mary L. Trump",
+      "email": "greatAuthor@autors.com",
+      "avatar": "https://pbs.twimg.com/profile_images/3037615597/d4fd27be95cc3f4cbe6da12a333e8a5f_400x400.jpeg",
+      "about": "is an American psychologist, businessperson, and author. She is a niece of President Donald J. Trump. Her 2020 book about him and the family, Too Much and Never Enough, sold nearly one million copies on the day of release."
+    }
+  ],
+  "minPrice": "16.80",
+  "mainPrice": "20.00",
+  "totalSum": "0.01",
+  "expectedSum": "1000000000",
+  "subscribersCount": "99"
+}
